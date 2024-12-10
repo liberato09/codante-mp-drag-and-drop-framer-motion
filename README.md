@@ -57,3 +57,11 @@ Temos uma sugestão de design no Figma. Entretanto, fique à vontade para usar s
 - `HTML, CSS`
 - `JavaScript, React`
 - `TailwindCSS` é recomendável, já que o template está estilizado com ele.
+
+## Dependências
+
+- [Motion](https://motion.dev/)
+
+```
+pnpm i motion
+```
